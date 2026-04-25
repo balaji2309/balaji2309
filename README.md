@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Balaji K</h1>
 <h3 align="center">🎓 Software Engineering student with strong interest in AI, Machine Learning, and Software Development.</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=balaji2309&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=balaji2309" alt="trophies"/>
-  </a>
-</p>
 
 ---
 
@@ -38,7 +33,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/balaji-k-38a818261">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/>
-  </a>
+  </a> 
   <a href="https://kaggle.com/balajik22mis1198">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30"/>
   </a>
